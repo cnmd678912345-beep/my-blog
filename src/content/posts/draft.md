@@ -1,12 +1,12 @@
 ---
 title: 我的第一篇博客
-published: 2025-06-07
+published: 2026-06-07
 tags: [Markdown, Blogging, Demo]
 category: Examples
 draft: false
 ---
 
-# This Article is a Draft
+# 第一篇小文章
 
 这是我个人的第一篇博客，兜兜转转还是终于部署好了。
 
@@ -14,8 +14,8 @@ draft: false
 
 感谢看到这篇博客的所有人
 ---
-title: 我的第一篇博客
-published: 2024-01-11T04:40:26.381Z
+title: 灯凛
+published: 2026-06-7
 tags: [Markdown, Blogging, Demo]
 category: Examples
 draft: false
