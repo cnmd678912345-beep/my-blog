@@ -2,7 +2,7 @@
 title: 我的第一篇博客
 published: 2026-06-07
 tags: [Markdown, Blogging, Demo]
-category: Examples
+category: 文章
 draft: false
 ---
 
@@ -13,10 +13,4 @@ draft: false
 因为现在我没电脑所以所有操作全部在手机上完成十分不便所以请看到这篇博客的人们见谅，后面会有电脑的。
 
 感谢看到这篇博客的所有人
----
-title: 灯凛
-published: 2026-06-7
-tags: [Markdown, Blogging, Demo]
-category: Examples
-draft: false
 ---
