@@ -1,10 +1,13 @@
 {
-	"hidden": true,
-	"title": "隐藏的相册",
-	"description": "这个相册被设置为隐藏(hidden属性)，不会在相册列表中显示",
-	"date": "2025-08-28",
-	"location": "测试",
-	"tags": ["隐藏", "测试"],
-	"layout": "grid",
-	"columns": 3
+  "title": "加密相册示例",
+  "description": "这是一个加密相册示例，需要密码才能查看照片",
+  "date": "2025-05-22",
+  "location": "秘密花园",
+  "tags": [
+    "加密",
+    "示例",
+    "私密"
+  ],
+  "layout": "masonry",
+  "columns": 3
 }
